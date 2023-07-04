@@ -5,13 +5,13 @@
     android:viewportHeight="2136">
   <path
       android:pathData="M1068,427.6l616.9,448.7l-235.6,726.1l-762.6,0l-235.6,-726.1l616.9,-448.7Z"
-      android:fillColor="#083590"/>
+      android:fillColor="#1d84b5"/>
   <path
-      android:fillColor="#FF000000"
+      android:fillColor="#0A2E42"
       android:pathData="M1068,427.6l616.9,448.7l369.5,-143l-386.9,-497.8l-600.1,-204.6l0.5,396.7Z"/>
   <path
       android:pathData="M1068,427.6l-616.9,448.7l-370.6,-113.9l386.9,-527l600.1,-204.6l0.5,396.7Z"
-      android:fillColor="#002570"/>
+      android:fillColor="#176087"/>
   <path
       android:pathData="M695.6,1257.1l119.1,0l-0,-331l-110.8,26l0,-90.9l111.5,-25.3l102.8,0l-0,421.2l119.1,0l-0,88.8l-341.7,0l0,-88.8Z"
       android:fillColor="#0f0"
@@ -25,8 +25,8 @@
       android:fillColor="#001746"/>
   <path
       android:pathData="M2054.5,733.4l-369.5,143l-235.6,726.1l235.6,311.1l362.6,-521.7l7,-658.4Z"
-      android:fillColor="#002570"/>
+      android:fillColor="#176087"/>
   <path
-      android:fillColor="#FF000000"
+      android:fillColor="#0A2E42"
       android:pathData="M1068,2105.7l616.9,-192.2l-235.6,-311l-762.6,0l-235.6,311l616.9,192.2Z"/>
 </vector>

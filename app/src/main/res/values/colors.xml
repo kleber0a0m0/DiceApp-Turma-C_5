@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="seed">#083590</color>
+    <color name="seed">#1d84b5</color>
     <color name="md_theme_light_primary">#3859B4</color>
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
     <color name="md_theme_light_primaryContainer">#DBE1FF</color>
