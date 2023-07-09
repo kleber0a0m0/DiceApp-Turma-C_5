@@ -8,6 +8,15 @@
     android:padding="16dp"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="sw480dp"
+        android:textSize="32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
     <com.google.android.material.chip.ChipGroup
         android:id="@+id/chip_group"
         android:layout_width="wrap_content"
